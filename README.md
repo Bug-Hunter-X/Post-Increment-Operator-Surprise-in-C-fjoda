@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases a potential confusion with the post-increment operator. The program calculates the output of a post increment operation in two different contexts, highlighting a possible unexpected result for beginners.
